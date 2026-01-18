@@ -54,6 +54,4 @@ Sample columns include:
 
 ---
 
-> 🧠 This project was inspired by the Zero to Mastery Data Engineering Bootcamp, as part of my learning journey into data engineering and PySpark.
-
 
