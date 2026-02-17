@@ -1,0 +1,6 @@
+AIRBNB_S3_BUCKET=airbnb-bucket
+AIRBNB_CITY=smalltown
+AIRBNB_SNAPSHOT_DATE=1955-03-14
+AIRBNB_S3_PREFIX=raw/source=insideairbnb/city=smalltown/snapshot_date=1955-03-12
+AWS_PROFILE=default
+AWS_DEFAULT_REGION=eu-west-2
